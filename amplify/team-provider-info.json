@@ -35,6 +35,9 @@
     "categories": {
       "auth": {
         "amplifyreactgraphqlb4cb01b3": {}
+      },
+      "api": {
+        "notesapp": {}
       }
     }
   }
